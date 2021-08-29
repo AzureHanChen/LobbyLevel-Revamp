@@ -1,0 +1,14 @@
+name: LobbyLevel
+version: 1.0-Revamp
+main: me.yuzegod.lobbylevel.LobbyLevel
+authors: [yuze, AzureHanChen]
+depend: [PlaceholderAPI]
+commands:
+  lobbylevel:
+    aliases: [llevel]
+    description: LobbyLevel
+permissions:
+  LobbyLevel.default:
+    default: true
+  LobbyLevel.admin:
+    default: op

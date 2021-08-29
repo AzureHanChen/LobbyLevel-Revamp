@@ -1,0 +1,300 @@
+plugin-prefix: '&e&l等级 &f&l» &r'
+MySQL:
+  ip: 127.0.0.1
+  port: 3306
+  database: minecraft
+  username: root
+  password: 123456
+level-up:
+  messages:
+  - '&e▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+  - ''
+  - '                 &a&l升级啦!'
+  - ''
+  - '             &a您当前等级为: %level%'
+  - ''
+  - '&e▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+  title: '&e&l✌升级啦!✎'
+  subtitle: '&a当前等级: &b%level%'
+show-Action: true
+rewards:
+  '1':
+    name: '&b1 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e1 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '2':
+    name: '&b2 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e2 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '3':
+    name: '&b3 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e3 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '4':
+    name: '&b4 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e4 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '5':
+    name: '&b5 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e5 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '6':
+    name: '&b6 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e6 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '7':
+    name: '&b7 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e7 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '8':
+    name: '&b8 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e8 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '9':
+    name: '&b9 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e9 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '10':
+    name: '&b10 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e10 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '11':
+    name: '&b11 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e11 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '12':
+    name: '&b12 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e12 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '13':
+    name: '&b13 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e13 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '14':
+    name: '&b14 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e14 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '15':
+    name: '&b15 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e15 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '16':
+    name: '&b16 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e16 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '17':
+    name: '&b17 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e17 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '18':
+    name: '&b18 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e18 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '19':
+    name: '&b19 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e19 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '20':
+    name: '&b20 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e20 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '21':
+    name: '&b21 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e21 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '22':
+    name: '&b22 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e22 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '23':
+    name: '&b23 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e23 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '24':
+    name: '&b24 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e24 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '25':
+    name: '&b25 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e25 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '26':
+    name: '&b26 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e26 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '27':
+    name: '&b27 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e27 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '28':
+    name: '&b28 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e28 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '29':
+    name: '&b29 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e29 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '30':
+    name: '&b30 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e30 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '31':
+    name: '&b31 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e31 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '32':
+    name: '&b32 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e32 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '33':
+    name: '&b33 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e33 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '34':
+    name: '&b34 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e34 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '35':
+    name: '&b35 级礼包'
+    description:
+    - ' '
+    commands:
+    - 'say 领取成功!'
+    - '&7等级达到 &e35 &7即可领取'
+  '36':
+    name: '&b36 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e36 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '37':
+    name: '&b37 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e37 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '38':
+    name: '&b38 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e38 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '39':
+    name: '&b39 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e39 &7即可领取'
+    commands:
+    - 'say 领取成功!'
+  '40':
+    name: '&b40 级礼包'
+    description:
+    - ' '
+    - '&7等级达到 &e40 &7即可领取'
+    commands:
+    - 'say 领取成功!'

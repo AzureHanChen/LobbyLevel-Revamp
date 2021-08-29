@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LobbyLevel">
+    <output-path>$PROJECT_DIR$/out/artifacts/LobbyLevel</output-path>
+    <root id="archive" name="LobbyLevel.jar">
+      <element id="module-output" name="decompiled-LobbyLevel" />
+    </root>
+  </artifact>
+</component>
